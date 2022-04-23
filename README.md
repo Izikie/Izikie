@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pc-nig&theme=react)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=react&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pc-nig&layout=compact&theme=react)
