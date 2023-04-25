@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pc-nig&theme=react)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pc-nig&layout=compact&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-ectonic&theme=react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-ectonic&layout=compact&theme=react)
