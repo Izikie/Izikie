@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm just little silly trans girl kisser.</p>
+<p align="left">I'm just little silly transbian.</p>
 
 ###
 
