@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm just little silly transbian.</p>
+<p align="left">I'm just a little silly transbian.</p>
 
 ###
 
