@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  [![Skills](https://skillicons.dev/icons?i=html,css,js,ts,svelte,tailwind,tauri,java,kotlin,py,lua,bun,linux,windows&perline=7)](https://github.com/Izikie)
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,tailwind,tauri,java,kotlin,py,lua,bun,linux,windows&perline=7"/>
 </div>
 
 ###
